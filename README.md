@@ -112,5 +112,4 @@ Viva Explanation
 The application uses CSV file handling for persistent student records. The Treeview widget displays records in tabular form. CRUD operations are implemented using Python functions. For the additional feature, ReportLab's canvas is used to create an A4 PDF and write the selected student's details into the report.
 
 Author
-
-GTU PBL-3 Student Project
+PBL-3 Student Project
