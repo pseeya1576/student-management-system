@@ -1,6 +1,6 @@
 Student Management System
 
-GTU PBL-3 — Python for Data Science (BE05000231)
+ PBL-3 — Python for Data Science 
 
 A simple and polished desktop-based Student Management System developed using Python.
 
@@ -107,5 +107,3 @@ Example:
 
 Student_Report_101.pdf
 
-Author
-PBL-3 Student Project
